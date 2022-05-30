@@ -22,14 +22,14 @@ Every time your display your webcam in terminal and create a directory with all 
 <br/>
 
 ```
-$ npm i wip-cli -g
+$ npm i webcam-in-terminal-cli -g
 ```
 
 <br>
 
 ## Usages
 
-Run: <code>wip-cli</code>
+Run: <code>webcam-in-terminal-cli</code>
 
 <br/>
 
@@ -70,14 +70,14 @@ If you have a problem, please contact me at: mscholz.dev@gmail.com
 <br/>
 
 ```
-$ npm i wip-cli -g
+$ npm i webcam-in-terminal-cli -g
 ```
 
 <br>
 
 ## Usages
 
-Executer: <code>wip-cli</code>
+Executer: <code>webcam-in-terminal-cli</code>
 
 <br/>
 

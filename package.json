@@ -1,6 +1,6 @@
 {
   "name": "webcam-in-terminal-cli",
-  "version": "1.0.0",
+  "version": "1.2.2",
   "description": "Display your webcam in terminal 😝",
   "main": "index.js",
   "type": "module",
@@ -30,6 +30,6 @@
   },
   "homepage": "https://github.com/mscholz-dev/webcam-in-terminal",
   "bin": {
-    "webcam-in-terminal-cli": "index.js"
+    "webcam-in-terminal-cli": "./index.js"
   }
 }
