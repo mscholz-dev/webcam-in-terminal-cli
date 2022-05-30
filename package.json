@@ -1,0 +1,35 @@
+{
+  "name": "wip-cli",
+  "version": "1.0.0",
+  "description": "Display your webcam in terminal 😝",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {},
+  "keywords": [
+    "terminal",
+    "image",
+    "webcam",
+    "just4fun",
+    "javascript",
+    "nodejs",
+    "opensource",
+    "windows",
+    "macos",
+    "linux",
+    "cli"
+  ],
+  "author": "mscholz.dev",
+  "license": "MIT",
+  "dependencies": {
+    "node-webcam": "^0.8.0",
+    "terminal-image": "^2.0.0"
+  },
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/mscholz-dev/webcam-in-terminal"
+  },
+  "homepage": "https://github.com/mscholz-dev/webcam-in-terminal",
+  "bin:" {
+    "wip-cli": "index.js"
+  }
+}
