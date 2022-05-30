@@ -1,5 +1,5 @@
 {
-  "name": "wip-cli",
+  "name": "webcam-in-terminal-cli",
   "version": "1.0.0",
   "description": "Display your webcam in terminal 😝",
   "main": "index.js",
@@ -29,7 +29,7 @@
     "url": "https://github.com/mscholz-dev/webcam-in-terminal"
   },
   "homepage": "https://github.com/mscholz-dev/webcam-in-terminal",
-  "bin:" {
-    "wip-cli": "index.js"
+  "bin": {
+    "webcam-in-terminal-cli": "index.js"
   }
 }

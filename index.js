@@ -2,7 +2,7 @@ import nodeWebcam from "node-webcam";
 import terminalImage from "terminal-image";
 import fs from "fs";
 
-const printWebcamInTerminal = (dirName = "webcam-in-terminal", i = 0) => {
+const webcamInTerminal = (dirName = "webcam-in-terminal", i = 0) => {
   if (i === 0 && fs.existsSync(dirName)) {
     fs.readdir(dirName, (err, files) => {
       for (const file of files) {
@@ -23,4 +23,4 @@ const printWebcamInTerminal = (dirName = "webcam-in-terminal", i = 0) => {
   });
 };
 
-printWebcamInTerminal();
+webcamInTerminal();
